@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dash Canyon",
+      "hasCanvas": true,
+      "bodyTextLen": 136,
+      "bodyTextHash": "00e0f04da07f4c32f184ef628376531646d1020bff479ff7e289413b0da6f3fe",
+      "bodyTextPrefix": "0 0 m 0 HẺM ĐÁ VÔ TẬN Dash Canyon Chạy xuyên hẻm đá. Nhảy đá và ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dash Canyon",
+      "hasCanvas": true,
+      "bodyTextLen": 136,
+      "bodyTextHash": "00e0f04da07f4c32f184ef628376531646d1020bff479ff7e289413b0da6f3fe",
+      "bodyTextPrefix": "0 0 m 0 HẺM ĐÁ VÔ TẬN Dash Canyon Chạy xuyên hẻm đá. Nhảy đá và ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
